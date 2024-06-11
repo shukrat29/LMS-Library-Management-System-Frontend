@@ -1,0 +1,21 @@
+.main {
+  min-height: 80vh;
+}
+
+.carousel {
+  height: 60vh;
+}
+
+.carousel img {
+  height: 60vh;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}

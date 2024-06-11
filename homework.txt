@@ -1,0 +1,7 @@
+1. Show students in the table, only for the admin, 
+2. Show all burrows in the table, no action required
+3. Make Delete button working in All reviews, Make sure only admin can delete teh reviews
+4. Make update Update Profile feature work. Similar to the update book 
+4. Clean up the project
+    a. Remove unnecessary code and comments
+    b. fix all the warnings
